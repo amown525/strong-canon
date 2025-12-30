@@ -28,6 +28,6 @@ A living canon of human meaning based on Strong’s Concordance.
 - вопрос-активация
 
 ## Лицензия
-CC BY-NC-SA 4.0  
+CC BY-NC-SA 4.0 (see LICENSE)
 Использование разрешено с указанием авторства,
 некоммерчески и с сохранением лицензии.
