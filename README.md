@@ -29,5 +29,6 @@ A living canon of human meaning based on Strong’s Concordance.
 
 ## Лицензия
 CC BY-NC-SA 4.0 (see LICENSE)
+
 Использование разрешено с указанием авторства,
 некоммерчески и с сохранением лицензии.
